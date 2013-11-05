@@ -65,7 +65,7 @@ body { font-family: Arial; }
 }
 #paperarea .artwallet .btcencryptedkey
 {
-	position: absolute; top: 174px; left: 332px; z-index: 100; font-size: 8px; background-color: transparent;
+	position: absolute; top: 164px; left: 332px; z-index: 100; font-size: 8px; background-color: transparent;
 	font-weight:bold; color: #000000; margin: 0;  
 		-webkit-transform-origin:top left; -webkit-transform:rotate(-90deg);
 		-moz-transform-origin:top left;    -moz-transform:rotate(-90deg);

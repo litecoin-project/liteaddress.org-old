@@ -1,10 +1,13 @@
-bitaddress.org
-JavaScript Client-Side Bitcoin Wallet Generator
+liteaddress.org
+JavaScript Client-Side Litecoin Wallet Generator
 
-Now Bitcoin addresses and their corresponding private key can be conveniently 
+Now Litecoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
-The bitaddress.org project provides an all-in-one HTML document with embedded
+The liteaddress.org project is a fork of the bitaddress.org project located at:
+https://github.com/pointbiz/bitaddress.org
+
+The liteaddress.org project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
 XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
 JavaScript locally and trust that the JavaScript did not change after being 
@@ -32,8 +35,8 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The bitaddress.org project, software and embedded resources are copyright bitaddress.org. 
-The bitaddress.org name and logo are not part of the open source license.
+The liteaddress.org project, software and embedded resources are copyright liteaddress.org. 
+The liteaddress.org name and logo are not part of the open source license.
 
 Portions of the all-in-one HTML document contain JavaScript codes that are the copyrights 
 of others. The individual copyrights are included throughout the document along with their 
@@ -50,7 +53,8 @@ window.BigInteger		BSD License
 window.QRCode			MIT License
 window.Bitcoin			MIT License
 
-The bitaddress.org software is available under The MIT License (MIT)
+The liteaddress.org software is available under The MIT License (MIT)
+Copyright (c) 2012-2013 liteaddress.org
 Copyright (c) 2011-2013 bitaddress.org
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this 
